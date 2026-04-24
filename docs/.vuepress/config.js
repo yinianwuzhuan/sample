@@ -2,7 +2,7 @@ const { defaultTheme } = require("@vuepress/theme-default");
 const { viteBundler } = require("@vuepress/bundler-vite");
 
 module.exports = {
-  base: "/just-laws/sample/",
+  base: "/sample/",
   lang: "zh-CN",
   title: "VuePress 示例",
   description: "一步一步理解 VuePress 的工作原理",
