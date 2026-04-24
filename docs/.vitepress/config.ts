@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 
 export default defineConfig({
-  // base: "/sample/",
+  base: "/sample/",
   lang: "zh-CN",
   title: "VitePress 示例",
   description: "一步一步理解 VitePress 的工作原理",
